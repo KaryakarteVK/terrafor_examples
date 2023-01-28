@@ -1,3 +1,4 @@
+#main.tf file to create storage account & fileshare
 terraform {
   required_providers {
      azurerm = {
